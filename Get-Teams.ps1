@@ -1,7 +1,7 @@
 ﻿#############################################################
 # 
 # Title: Get-Teams.ps1
-# Author: Sanmomo_shi_togo
+# Author: Shomi_Nijo
 # Version: 1.0
 # LastUpdate: 2019.09.18
 # Description:
